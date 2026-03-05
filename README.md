@@ -8,7 +8,7 @@ Clone the project with git
 Fork the repo in github first to your account .
 After forking clone your repo to which you will have push rights.
 
-`git clone https://github.com/ [your_gh_account_here] /bu_banking.git`
+`git clone https://github.com/Antendis/bu_banking.git`
 
 Change directory to application
 
