@@ -56,3 +56,6 @@ yarn.lock
 # Ignore temporary files
 *.tmp
 *.swp
+
+# fixing gregs code
+db.sqlite3
